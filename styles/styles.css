@@ -18,27 +18,110 @@ body{
 
 /* about styles */
 .about{
-    background-color: yellow;
+    
 }
 
 /* project styles */
 .projects{
-    background-color: chocolate;
-    margin: 100px 90px 300px 60px;
+    
 }
 
 /* work */
 .work{
-    background-color: cyan;
-    padding: 100px 40px 50px 20px;
+
 }
 
 /* education */
 .education{
-    background-color: darkblue;
+    
 }
 
 /* sidebar styles */
 .sidebar{
     background-color: #1e2939;
+    padding-top: 40px;
+    width: 370px;
 }
+
+/* photo */
+.photo{
+    width: 370px;
+    margin-bottom: 50px;
+}
+
+/* sidebar title */
+.sidebar_title{
+    color: white;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+/* contacts */
+.contacts, .tech_skills, .soft_skills{
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+
+/* contact type */
+.contact_type{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+    margin-right: 10px;
+}
+
+/* contact link */
+.contact_link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #565e6a;
+    }
+
+    /* tech skills list */
+    .tech_skills_list{
+        color: white;
+        padding: 0;
+        margin-left: 20px;
+    }
+
+    /* tech skills item */
+    .tech_skills_item{
+        color: #fb6d3a;
+    }
+
+    /* tech skills text */
+    .tech_skills_text{
+        color: #fff;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    /* soft skills list */
+    .soft_skills_list {
+        color: white;
+        padding: 0;
+        margin-left: 20px;
+    }
+    
+    /* soft skills item */
+        .soft_skills_item {
+        color: #fb6d3a;
+     }
+    
+     /* soft skills text */
+    .soft_skills_text {
+        color: #fff;
+        font-style: normal;
+        font-weight: normal; 
+        font-size: 14px;
+        line-height: 24px;
+        }
